@@ -1,0 +1,17 @@
+{
+  "name": "spin-form-netlify",
+  "version": "1.0.0",
+  "main": "server.cjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  },
+  "type": "module"
+}
